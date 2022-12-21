@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogService", "LogService\LogService.csproj", "{DC1E8753-0A33-4AFE-9FCA-0051D151A375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1E8753-0A33-4AFE-9FCA-0051D151A375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1E8753-0A33-4AFE-9FCA-0051D151A375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1E8753-0A33-4AFE-9FCA-0051D151A375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1E8753-0A33-4AFE-9FCA-0051D151A375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A1A9F1-129E-4516-9871-98EF1453C1DF}
+	EndGlobalSection
+EndGlobal
